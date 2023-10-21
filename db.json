@@ -1,0 +1,29 @@
+{
+  "outfits": [
+    {
+      "topClothing": "blue crop top",
+      "bottomClothing": "white cargo pants",
+      "id": 1
+    },
+    {
+      "topClothing": "olive flannel",
+      "bottomClothing": "black sweatpants",
+      "id": 2
+    },
+    {
+      "topClothing": "sweater v neck",
+      "bottomClothing": "black slacks",
+      "id": 3
+    },
+    {
+      "topClothing": "lavender dress shirt",
+      "bottomClothing": "brown khakis",
+      "id": 4
+    },
+    {
+      "topClothing": "hoodie",
+      "bottomClothing": "overalls",
+      "id": 6
+    }
+  ]
+}
